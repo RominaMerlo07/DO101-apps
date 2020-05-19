@@ -6,7 +6,7 @@ app.get('/', function (req, res) {
 });
 
 app.get('/mars', function (req, res) {
-  res.send('Hello Romi!\n');
+  res.send('Hello Maite!\n');
 });
 
 app.listen(8080, function () {
